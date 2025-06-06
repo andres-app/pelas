@@ -1,0 +1,34 @@
+{
+  "featured": {
+    "id": 1,
+    "title": "The Dark Knigh",
+    "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop": "https://es.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/67/96/20474876.JPG",
+    "year": 2008,
+    "genre": "Acción, Crimen, Drama",
+    "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+    "video_url": "https://drive.google.com/file/d/1ZukG-AuTUm5G6qOc3kytR0yhs2sHL-b1/view?usp=sharing"
+  },
+  "movies": [
+    {
+      "id": 1,
+      "title": "Cuestión de tiempo",
+      "poster": "https://es.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/67/96/20474876.JPG",
+      "backdrop": "https://es.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/67/96/20474876.JPG",
+      "year": 2013,
+      "genre": "Romance, Comedia",
+      "description": "Cuando Tim Lake cumple 21 años, su padre le dice un secreto...",
+      "video_url": "https://drive.google.com/file/d/1ZukG-AuTUm5G6qOc3kytR0yhs2sHL-b1/preview"
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "poster": "https://image.tmdb.org/t/p/w300/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+      "year": 2010,
+      "genre": "Acción, Ciencia ficción, Thriller",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "video_url": "#"
+    }
+  ]
+}

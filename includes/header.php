@@ -22,9 +22,9 @@
   <div class="px-6 py-3 flex items-center justify-between">
     <!-- Logo -->
     <div class="flex items-center">
-      <span class="text-red-600 font-bold text-3xl mr-10">PELAS</span>
+    <a href="index.php" class="text-red-600 font-bold text-3xl mr-10">NETFLIX</a>
       <div class="hidden md:flex space-x-6">
-        <a href="#" class="hover:text-gray-300">Inicio</a>
+        <a href="index.php" class="hover:text-gray-300">Inicio</a>
         <a href="#" class="hover:text-gray-300">Películas</a>
         <a href="#" class="hover:text-gray-300">Series</a>
         <a href="#" class="hover:text-gray-300">Mi Lista</a>
